@@ -2,20 +2,20 @@
 This application was created specifically for Udacity's iOS Developer Nanodegree. An app shows a map that shows information posted by other students. The map will contain pins that show the location where other students have reported studying. By tapping on the pin users can see a URL for something the student finds interesting. The user will be able to add their own data by posting a string that can be geocoded to a location, and a URL.
 
 # Technologies Used
-Stack View
-Auto Layout
-UIKit
-Swift
-Text Field Delegate
-MapKit
-CoreLocation
-JSON data.
-API's
-Navigation/Tab Bar Controllers
-Grand Central Dispatch
+Stack View,
+Auto Layout,
+UIKit,
+Swift,
+Text Field Delegate,
+MapKit,
+CoreLocation,
+JSON data,
+API's,
+Navigation/Tab Bar Controllers,
+Grand Central Dispatch,
 
 # User Interface
-MeMe has three main view controllers :
+On the app has three main view controllers :
 
 LoginViewController: This view accepts email and password strings from users, with a “Login” button. The app also informs the user if the login fails. It differentiates between a failure to connect, and incorrect credentials (i.e., wrong email or password).
 
